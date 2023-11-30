@@ -1,6 +1,7 @@
 # Análisis de Riesgos Crediticios
 
-![Logo de mi proyecto]([[https://github.com/tu_usuario/tu_repositorio/blob/ruta/a/la/imagen/logo.png](https://github.com/DonovanDavid/Analisis-Riegos-Crediticio/blob/main/banner%20riesgo%20crediticio.png)](https://github.com/DonovanDavid/Analisis-Riegos-Crediticio/blob/279dbded47c3f587db66be8a1ec1b693c6acb0b8/banner%20riesgo%20crediticio.png) "Logo de mi proyecto")
+![Texto alternativo](https://github.com/DonovanDavid/Analisis-Riegos-Crediticio/blob/279dbded47c3f587db66be8a1ec1b693c6acb0b8/banner%20riesgo%20crediticio.png "Título opcional")
+
 
 
 
