@@ -13,6 +13,7 @@ Este repositorio contiene el código y la documentación del proyecto de anális
 - **URL del Dataset:** [Descargar dataset desde Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 - **Video en YouTube:** [Ver video en YouTube](https://www.youtube.com/watch?v=sDVNi2U6-hc)
 - **Repositorio del Proyecto:** [Enlace al repositorio en GitHub](https://github.com/DonovanDavid/Analisis-Riegos-Crediticio.git)
+- **Notebook Google Colab** [Enlace al notebook](https://colab.research.google.com/drive/1RIWjk9IE3p-40xnLMLcsvDMdAyGV5Ufb?usp=sharing)
 
 ## Objetivo del Proyecto
 
